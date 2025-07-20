@@ -1,12 +1,18 @@
 .text {
-    background-image: url(https://i.pinimg.com/736x/3c/b6/69/3cb669d8a4d02f39b25df354cd9e6ac5.jpg);
+    background-image: url(https://i.pinimg.com/1200x/fb/f6/e6/fbf6e6732ca522fe7c6e6200da390ec3.jpg);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
-    background-size: 100px;
+    background-size: 30px;
+    background-size: cover;
 }
 
 h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 100px;
 }
+
+body {
+    background-color: black;
+}
+
