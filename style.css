@@ -1,5 +1,4 @@
 
-
 /* Mobile First Media Queries */
 /* smallest*/
 @media (min-width: 475px) {
@@ -30,5 +29,7 @@
 
 /* larges */
 @media (min-width: 1536px) {
-    
+
 }
+
+
