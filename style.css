@@ -60,10 +60,25 @@
 .logo {
     max-width: 30px;
     height: 30%;
-
-
+    position: sticky;
+    top: 0px;
+    left: 0px;
 }
+
+/* Header bg Img */
+
+.headerbg {
+    position: absolute;
+    top: 100px;
+    z-index: -1;
+}
+
+
+
 
 h1 {
     font-family: dyslexia;
+    position: fixed;
+    top: 0px;
+    right: 0px;
 }
