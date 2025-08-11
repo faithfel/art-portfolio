@@ -1,3 +1,24 @@
+/* Fonts */
+
+@font-face {
+    font-family: Blastimo;
+    src: url(/fonts/BLASTIMO\ SANS.ttf);
+}
+
+@font-face {
+    font-family: Fifties;
+    src: url(fonts/Fifties\ Movies.ttf);
+}
+
+@font-face {
+    font-family: Marola;
+    src: url(fonts/MAROLA__.TTF);
+}
+
+@font-face {
+    font-family: Dyslexia;
+    src: url(fonts/OpenDyslexicAlta-Bold.otf);
+}
 
 /* Mobile First Media Queries */
 /* smallest*/
@@ -41,4 +62,8 @@
     height: 30%;
 
 
+}
+
+h1 {
+    font-family: dyslexia;
 }
